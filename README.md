@@ -22,7 +22,7 @@ Os resumos em PDF encontram-se na pasta `/documentos`.
 
 ### 🔹 Dia 2: 04/11/2026 (Presencial G-122)
 
-[Assistir no YouTube](https://www.youtube.com/watch?v=yboTkF-94Is&t=22693s) | <a href="documentos/coloquio_peq_coppe_04_11_2026.pdf" download>Baixar resumo gerado por Inteligência Artificial</a>
+[Assistir no YouTube](https://www.youtube.com/watch?v=yboTkF-94Is&t=22693s) | <a href="documentos/claude_opus/" download>Baixar resumo gerado pelo Claude</a> | <a href="documentos/gemini_pro/" download>Baixar resumo gerado pelo Gemini</a>
 
 * Mesa de abertura
 
@@ -37,7 +37,7 @@ Os resumos em PDF encontram-se na pasta `/documentos`.
 
 ### 🔹 Dia 3: 05/11/2026 (Presencial G-122)
 
-[Assistir no YouTube](https://www.youtube.com/watch?v=KHxVFNH2Xso) | <a href="documentos/coloquio_peq_coppe_05_11_2026.pdf" download>Baixar resumo gerado por Inteligência Artificial</a>
+[Assistir no YouTube](https://www.youtube.com/watch?v=KHxVFNH2Xso) | <a href="documentos/claude_opus/" download>Baixar resumo gerado pelo Claude</a> | <a href="documentos/gemini_pro/" download>Baixar resumo gerado pelo Gemini</a>
 
 * Abertura do eixo Automação e Gêmeos Digitais
 
@@ -58,7 +58,7 @@ Os resumos em PDF encontram-se na pasta `/documentos`.
 
 ### 🔹 Dia 4: 06/11/2026 (Presencial G-122)
 
-[Assistir no YouTube](https://www.youtube.com/watch?v=lo2nm5cJ16o) | <a href="documentos/coloquio_peq_coppe_06_11_2026.pdf" download>Baixar resumo gerado por Inteligência Artificial</a>
+[Assistir no YouTube](https://www.youtube.com/watch?v=lo2nm5cJ16o) | <a href="documentos/claude_opus/" download>Baixar resumo gerado pelo Claude</a> | <a href="documentos/gemini_pro/" download>Baixar resumo gerado pelo Gemini</a>
 
 * Keynote speaker - Se a IA pode fazer, o que ainda precisamos aprender? Educação, ética e autoria na era da Inteligência Artificial.
 
