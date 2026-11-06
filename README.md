@@ -1,7 +1,9 @@
 # Colóquio PEQ/COPPE/UFRJ 2026: Engenharia Química e Inteligência Artificial 🧪🤖
 
 ## 📂 Como navegar
-Os resumos em PDF encontram-se na pasta `/documentos`.
+Os resumos em PDF e em MD encontram-se na pasta `/documentos`. Os arquivos MD podem ser abertos em qualquer navegador.
+Os resumos gerados pelo Claude foram baseados nas legendas dos vídeos no YouTube.
+Os resumos gerados pelo Gemini foram baseados tanto nos áudios quanto nas imagens dos vídeos no YouTube.
 
 ---
 
