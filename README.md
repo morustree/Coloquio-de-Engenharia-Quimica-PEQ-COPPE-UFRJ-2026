@@ -22,7 +22,7 @@ Os resumos em PDF encontram-se na pasta `/documentos`.
 
 ### 🔹 Dia 2: 04/11/2026 (Presencial G-122)
 
-[Assistir no YouTube](https://www.youtube.com/watch?v=yboTkF-94Is&t=22693s) | [Baixar resumo gerado por Inteligência Artificial](documentos/coloquio_peq_coppe_04_11_2026.pdf?raw=true)
+[Assistir no YouTube](https://www.youtube.com/watch?v=yboTkF-94Is&t=22693s) | <a href="documentos/coloquio_peq_coppe_04_11_2026.pdf" download>Baixar resumo gerado por Inteligência Artificial</a>
 
 * Mesa de abertura
 
@@ -37,7 +37,7 @@ Os resumos em PDF encontram-se na pasta `/documentos`.
 
 ### 🔹 Dia 3: 05/11/2026 (Presencial G-122)
 
-[Assistir no YouTube](https://www.youtube.com/watch?v=KHxVFNH2Xso) | [Baixar resumo gerado por Inteligência Artificial](documentos/coloquio_peq_coppe_05_11_2026.pdf?raw=true)
+[Assistir no YouTube](https://www.youtube.com/watch?v=KHxVFNH2Xso) | <a href="documentos/coloquio_peq_coppe_05_11_2026.pdf" download>Baixar resumo gerado por Inteligência Artificial</a>
 
 * Abertura do eixo Automação e Gêmeos Digitais
 
