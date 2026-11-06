@@ -58,7 +58,7 @@ Os resumos em PDF encontram-se na pasta `/documentos`.
 
 ### 🔹 Dia 4: 06/11/2026 (Presencial G-122)
 
-[Assistir no YouTube](https://www.youtube.com/watch?v=lo2nm5cJ16o) | [Baixar resumo gerado por Inteligência Artificial](documentos/coloquio_peq_coppe_06_11_2026.pdf?raw=true)
+[Assistir no YouTube](https://www.youtube.com/watch?v=lo2nm5cJ16o) | <a href="documentos/coloquio_peq_coppe_06_11_2026.pdf" download>Baixar resumo gerado por Inteligência Artificial</a>
 
 * Keynote speaker - Se a IA pode fazer, o que ainda precisamos aprender? Educação, ética e autoria na era da Inteligência Artificial.
 
