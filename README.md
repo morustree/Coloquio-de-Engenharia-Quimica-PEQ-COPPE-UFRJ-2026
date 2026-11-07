@@ -1,8 +1,8 @@
 # Colóquio PEQ/COPPE/UFRJ 2026: Engenharia Química e Inteligência Artificial 🧪🤖
 
 ## 📂 Como navegar
-Os resumos em PDF e em MD encontram-se na pasta `/documentos`. Os arquivos MD podem ser abertos em qualquer navegador.
-Os resumos gerados pelo Claude foram baseados nas legendas dos vídeos no YouTube.
+Os resumos em PDF encontram-se na pasta `documentos`. <br>
+Os resumos gerados pelo Claude foram baseados nas legendas automáticas dos vídeos no YouTube. <br>
 Os resumos gerados pelo Gemini foram baseados tanto nos áudios quanto nas imagens dos vídeos no YouTube.
 
 ---
@@ -62,10 +62,16 @@ Os resumos gerados pelo Gemini foram baseados tanto nos áudios quanto nas image
 
 [Assistir no YouTube](https://www.youtube.com/watch?v=lo2nm5cJ16o) | <a href="documentos/claude_opus/" download>Baixar resumo gerado pelo Claude</a> | <a href="documentos/gemini_pro/" download>Baixar resumo gerado pelo Gemini</a>
 
-* Keynote speaker - Se a IA pode fazer, o que ainda precisamos aprender? Educação, ética e autoria na era da Inteligência Artificial.
-
-* Palestra 1 - Integridade em Pesquisa nos Tempos de IA.
-
-* Mesa Redonda - IA: Que Caminho para Onde?
+* Abertura do eixo temático Educação e Ética
+  
+* Keynote: Se a IA pode fazer, o que ainda precisamos aprender? Educação, ética e autoria na era da IA
+  
+* Palestra: Integridade em pesquisa nos tempos de IA
+  
+* Homenagem
+  
+* Mesa-redonda: IA: que caminho para onde?
+  
+* Premiação dos pôsteres e encerramento
 
 ---
