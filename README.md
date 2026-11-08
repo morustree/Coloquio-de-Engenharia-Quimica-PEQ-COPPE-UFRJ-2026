@@ -2,8 +2,8 @@
 
 ## 📂 Como navegar
 Os resumos em PDF encontram-se na pasta <a href="documentos/" download>documentos</a>. <br>
-Os resumos gerados pelo Claude foram baseados nas legendas automáticas dos vídeos no YouTube. <br>
-Os resumos gerados pelo Gemini foram baseados tanto nos áudios quanto nas imagens dos vídeos no YouTube.
+Os resumos gerados pelo Claude Opus 5.5 foram baseados nas legendas automáticas dos vídeos no YouTube. <br>
+Os resumos gerados pelo Gemini Pro 3.1 foram baseados tanto nos áudios quanto nas imagens dos vídeos no YouTube.
 
 ---
 
