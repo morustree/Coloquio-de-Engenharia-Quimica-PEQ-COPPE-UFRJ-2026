@@ -24,7 +24,7 @@ Os resumos gerados pelo Gemini foram baseados tanto nos áudios quanto nas image
 
 ### 🔹 Dia 2: 04/11/2026 (Presencial G-122)
 
-[Assistir no YouTube](https://www.youtube.com/watch?v=yboTkF-94Is&t=22693s) | <a href="documentos/claude_opus/" download>Baixar resumo gerado pelo Claude</a> | <a href="documentos/gemini_pro/" download>Baixar resumos gerados pelo Gemini</a>
+[Assistir no YouTube](https://www.youtube.com/watch?v=yboTkF-94Is&t=22693s) | <a href="documentos/claude_opus_5-5/" download>Baixar resumo gerado pelo Claude</a> | <a href="documentos/gemini_pro_3-1/" download>Baixar resumos gerados pelo Gemini</a>
 
 * Mesa de abertura
 
@@ -39,7 +39,7 @@ Os resumos gerados pelo Gemini foram baseados tanto nos áudios quanto nas image
 
 ### 🔹 Dia 3: 05/11/2026 (Presencial G-122)
 
-[Assistir no YouTube](https://www.youtube.com/watch?v=KHxVFNH2Xso) | <a href="documentos/claude_opus/" download>Baixar resumo gerado pelo Claude</a> | <a href="documentos/gemini_pro/" download>Baixar resumos gerados pelo Gemini</a>
+[Assistir no YouTube](https://www.youtube.com/watch?v=KHxVFNH2Xso) | <a href="documentos/claude_opus_5-5/" download>Baixar resumo gerado pelo Claude</a> | <a href="documentos/gemini_pro_3-1/" download>Baixar resumos gerados pelo Gemini</a>
 
 * Abertura do eixo Automação e Gêmeos Digitais
 
@@ -60,7 +60,7 @@ Os resumos gerados pelo Gemini foram baseados tanto nos áudios quanto nas image
 
 ### 🔹 Dia 4: 06/11/2026 (Presencial G-122)
 
-[Assistir no YouTube](https://www.youtube.com/watch?v=lo2nm5cJ16o) | <a href="documentos/claude_opus/" download>Baixar resumo gerado pelo Claude</a> | <a href="documentos/gemini_pro/" download>Baixar resumos gerados pelo Gemini</a>
+[Assistir no YouTube](https://www.youtube.com/watch?v=lo2nm5cJ16o) | <a href="documentos/claude_opus_5-5/" download>Baixar resumo gerado pelo Claude</a> | <a href="documentos/gemini_pro_3-1/" download>Baixar resumos gerados pelo Gemini</a>
 
 * Abertura do eixo temático Educação e Ética
   
